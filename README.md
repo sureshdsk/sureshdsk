@@ -44,11 +44,11 @@
 ### 📡 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/sureshdsk">Twitter</a> •
-  <a href="https://linkedin.com/in/sureshdsk">LinkedIn</a> •
-  <a href="https://medium.com/@sureshdsk">Medium</a> • 
-  <a href="https://www.instagram.com/sureshdsk">Instagram</a> •
-  <a href="https://bio.link/sureshdsk">bio.link</a>
+  <a href="https://twitter.com/sureshdsk" target="_blank">Twitter</a> •
+  <a href="https://linkedin.com/in/sureshdsk" target="_blank">LinkedIn</a> •
+  <a href="https://medium.com/@sureshdsk" target="_blank">Medium</a> • 
+  <a href="https://www.instagram.com/sureshdsk" target="_blank">Instagram</a> •
+  <a href="https://bio.link/sureshdsk" target="_blank">bio.link</a>
 </p>
 
 ---
