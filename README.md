@@ -1,31 +1,62 @@
-<h1 align="center">Hi there 👋, I'm Suresh Kumar</h1>
-<h3 align="center">A passionate software engineer from Chennai.</h3>
+<h1 align="center">Hi there 👋 I'm Suresh Kumar (aka DSK)</h1>
+<p align="center">💻 Software Architect | 🧠 Hacker | 🎭 Meme Maker | 📍Chennai, India 🇮🇳 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshdsk&label=Profile%20views&color=0e75b6&style=flat" alt="sureshdsk" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/sureshdsk" target="blank"><img src="https://img.shields.io/twitter/follow/sureshdsk?logo=twitter&style=for-the-badge" alt="sureshdsk" /></a> </p>
+### 👨‍💻 About Me
 
-- 📝 I regularly write articles on [https://sureshdsk.dev](https://sureshdsk.dev)
+🔭 Currently building mobile app security platform at **Appknox** <br />
+🧠 Previously: **Kissflow**, **Saama AI Research** <br />
+✍️ I write at [sureshdsk.dev](https://sureshdsk.dev) <br />
+💬 Ask me about **Python, Open Source, Kubernetes, System Design, Blogging** <br />
+😂 Fun fact: I make memes about dev life, bugs, coding, work and my own life. <br />
 
-- 💬 Ask me about **Blogging, Python, Kubernetes, Scaling APIs and Systems Architecture**
+---
 
-- ⚡ Fun fact **I create memes on devs, coding and work**
+### 🛠️ Personal Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sureshdsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sureshdsk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sureshdsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sureshdsk" height="30" width="40" /></a>
-<a href="https://fb.com/sureshdsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sureshdsk" height="30" width="40" /></a>
-<a href="https://instagram.com/sureshdsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sureshdsk" height="30" width="40" /></a>
-<a href="https://medium.com/@sureshdsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sureshdsk" height="30" width="40" /></a>
+| Project | Description |
+|--------|-------------|
+| [**Doro**](https://github.com/sureshdsk/doro) | 🕒 Minimalistic Pomodoro timer for peak focus |
+| [**Rich Diff**](https://github.com/sureshdsk/rich-diff) | 🧠 Visualize rich diffs for code changes |
+| [**Tour My Pull Request**](https://www.producthunt.com/products/tour-my-pull-request) | 🎓 Practice better PRs & engineering hygiene |
+| [**Task Zee**](https://www.producthunt.com/products/task-zee) | ✅ Clean, powerful task manager |
+
+---
+
+### 🌍 Open Source Contributions
+
+| Repo | Contribution | PR |
+|------|--------------|----|
+| `helm/helm` | Plugin bug fix | [#10913](https://github.com/helm/helm/pull/10913) |
+| `psycopg/psycopg` | Cursor bug fix | [#126](https://github.com/psycopg/psycopg/pull/126) |
+| `appknox/googleplay-api` | Maintainer & contributor | [Repo](https://github.com/appknox/googleplay-api) |
+| `SigNoz/sample-fastAPI-app` | FastAPI instrumentation sample | [Repo](https://github.com/SigNoz/sample-fastAPI-app) |
+| `guilatrova/tryceratops` | CI/CD optimization | [#45](https://github.com/guilatrova/tryceratops/pull/45) |
+| `atlassian-python-api` | Jira OAuth 2.0 Flask sample | [#910](https://github.com/atlassian-api/atlassian-python-api/pull/910) |
+| `textualize/rich` | Export + calendar layout | [#1581](https://github.com/Textualize/rich/pull/1581), [#1540](https://github.com/Textualize/rich/pull/1540) |
+| `kubernetes/website` | Jinja template fix | [#30346](https://github.com/kubernetes/website/pull/30346) |
+| `supabase/postgrest-py` | Docker local setup | [#22](https://github.com/supabase/postgrest-py/pull/22) |
+| `supabase/supabase` | Python docs update | [#3166](https://github.com/supabase/supabase/pull/3166), [#3162](https://github.com/supabase/supabase/pull/3162), [#3148](https://github.com/supabase/supabase/pull/3148) |
+
+---
+
+### 📡 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/sureshdsk">Twitter</a> •
+  <a href="https://linkedin.com/in/sureshdsk">LinkedIn</a> •
+  <a href="https://medium.com/@sureshdsk">Medium</a> • 
+  <a href="https://www.instagram.com/sureshdsk">Instagram</a> •
+  <a href="https://bio.link/sureshdsk">bio.link</a>
 </p>
 
+---
 
-<br><br>
+### ☕ Support
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sureshdsk&show_icons=true&locale=en" alt="sureshdsk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshdsk&" alt="sureshdsk" /></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sureshdsk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sureshdsk" /></a></p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sureshdsk">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="40" alt="Buy Me A Coffee">
+  </a>
+</p>
