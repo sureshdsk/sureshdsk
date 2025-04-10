@@ -8,7 +8,7 @@
 🔭 Currently building mobile app security platform at **Appknox** <br />
 🧠 Previously: **Kissflow**, **Saama AI Research** <br />
 ✍️ I write at [sureshdsk.dev](https://sureshdsk.dev) <br />
-💬 Ask me about **Python, Open Source, Kubernetes, System Design, Blogging** <br />
+💬 Ask me about **Python, Postgres, Open Source, Kubernetes, System Design, Blogging** <br />
 😂 Fun fact: I make memes about dev life, bugs, coding, work and my own life. <br />
 
 ---
