@@ -34,10 +34,10 @@
 | `SigNoz/sample-fastAPI-app` | FastAPI instrumentation sample | [Repo](https://github.com/SigNoz/sample-fastAPI-app) |
 | `guilatrova/tryceratops` | CI/CD optimization | [#45](https://github.com/guilatrova/tryceratops/pull/45) |
 | `atlassian-python-api` | Jira OAuth 2.0 Flask sample | [#910](https://github.com/atlassian-api/atlassian-python-api/pull/910) |
-| `textualize/rich` | Export + calendar layout | [#1581](https://github.com/Textualize/rich/pull/1581), [#1540](https://github.com/Textualize/rich/pull/1540) |
-| `kubernetes/website` | Jinja template fix | [#30346](https://github.com/kubernetes/website/pull/30346) |
+| `textualize/rich` | Export + calendar layout code samples | [#1581](https://github.com/Textualize/rich/pull/1581), [#1540](https://github.com/Textualize/rich/pull/1540) |
+| `kubernetes/website` | Jinja template fix in docs | [#30346](https://github.com/kubernetes/website/pull/30346) |
 | `supabase/postgrest-py` | Docker local setup | [#22](https://github.com/supabase/postgrest-py/pull/22) |
-| `supabase/supabase` | Python docs update | [#3166](https://github.com/supabase/supabase/pull/3166), [#3162](https://github.com/supabase/supabase/pull/3162), [#3148](https://github.com/supabase/supabase/pull/3148) |
+| `supabase/supabase` | Python docs | [#3166](https://github.com/supabase/supabase/pull/3166), [#3162](https://github.com/supabase/supabase/pull/3162), [#3148](https://github.com/supabase/supabase/pull/3148) |
 
 ---
 
