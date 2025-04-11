@@ -1,0 +1,24 @@
+name: Update blog section
+on:
+  push:
+    branches: ["master"]
+  workflow_dispatch:
+  schedule:
+    # cheat sheet: https://crontab.guru/
+    - cron: "0 9 * * *"
+
+
+jobs:
+  update-readme-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: PERSONAL_BLOG
+          feed_list: "https://sureshdsk.dev/rss.xml"
+          max_post_count: 10
+          retry_count: 3
+          retry_wait_time: 30
