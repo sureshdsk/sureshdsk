@@ -13,11 +13,6 @@
 
 ---
 
-## 📝 Latest articles from sureshdsk.dev
-
-<!-- PERSONAL_BLOG:START -->
-<!-- PERSONAL_BLOG:END -->
-
 
 ### 🛠️ Personal Projects
 
